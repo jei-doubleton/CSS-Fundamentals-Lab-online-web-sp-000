@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-section {
+figure {
   align: center;
 }
 
@@ -27,5 +27,5 @@ figure figcaption {
 
 section p {
   width: 800px;
-  text-align: left;
+  text-align: center;
 }
