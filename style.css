@@ -12,8 +12,11 @@ figure {
   align: center;
 }
 
+nav {
+  background-color: grey;
+}
+
 nav a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: grey;
 }
