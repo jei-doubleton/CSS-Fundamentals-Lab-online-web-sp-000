@@ -38,4 +38,5 @@ section#details {
 section#details div {
   float: left;
   background-color: #ccc;
+  width: 25%;
 }
