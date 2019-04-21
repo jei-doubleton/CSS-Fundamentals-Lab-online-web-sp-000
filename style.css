@@ -37,4 +37,5 @@ section#details {
 
 section#details div {
   float: left;
+  padding: 10px;
 }
