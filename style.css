@@ -28,5 +28,5 @@ figure figcaption {
 section p {
   margin: auto;
   width: 800px;
-  text-align: center;
+  /*text-align: center;*/
 }
