@@ -24,3 +24,7 @@ nav a {
 figure figcaption {
   font-size: .75em;
 }
+
+section p {
+  width: 800px;
+}
