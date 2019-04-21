@@ -39,4 +39,5 @@ section#details div {
   float: left;
   background-color: #ccc;
   width: 25%;
+  text-align: center;
 }
