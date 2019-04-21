@@ -32,5 +32,5 @@ section#featured-property p {
 }
 
 section#details {
-  
+  display: block;
 }
